@@ -9,7 +9,7 @@ function App() {
     <>
       <Header />
       <Routes>
-        <Route path="/anhnguyen-portfolio/" element={<Home />} />
+        <Route path="/ChinguPortfolio/" element={<Home />} />
       </Routes>
     </>
   );
