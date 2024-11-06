@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header className="flex justify-between px-5 py-2 bg-secondery text-white fixed w-full z-10">
       <a
-        href="/anhnguyen-portfolio"
+        href="/ChinguPortfolio"
         className="logo text-2xl font-bold text-impress"
       >
         Anh Nguyen
@@ -19,16 +19,16 @@ const Header = () => {
       <nav className="hidden md:block">
         <ul className="flex text-primary">
           <li>
-            <a href="/anhnguyen-portfolio/#about">About</a>
+            <a href="/ChinguPortfolio/#about">About</a>
           </li>
           <li>
-            <a href="/anhnguyen-portfolio/#projects">Projects</a>
+            <a href="/ChinguPortfolio/#projects">Projects</a>
           </li>
           <li>
-            <a href="/anhnguyen-portfolio/#experiences">Experiences</a>
+            <a href="/ChinguPortfolio/#experiences">Experiences</a>
           </li>
           <li>
-            <a href="/anhnguyen-portfolio/#contact">Contact</a>
+            <a href="/ChinguPortfolio/#contact">Contact</a>
           </li>
         </ul>
       </nav>
@@ -39,16 +39,16 @@ const Header = () => {
       >
         <ul className="flex flex-col">
           <li>
-            <a href="/anhnguyen-portfolio/#about">About</a>
+            <a href="/ChinguPortfolio/#about">About</a>
           </li>
           <li>
-            <a href="/anhnguyen-portfolio/#projects">Projects</a>
+            <a href="/ChinguPortfolio/#projects">Projects</a>
           </li>
           <li>
-            <a href="/anhnguyen-portfolio/#experiences">Experiences</a>
+            <a href="/ChinguPortfolio/#experiences">Experiences</a>
           </li>
           <li>
-            <a href="/anhnguyen-portfolio/#contact">Contact</a>
+            <a href="/ChinguPortfolio/#contact">Contact</a>
           </li>
         </ul>
       </nav>
